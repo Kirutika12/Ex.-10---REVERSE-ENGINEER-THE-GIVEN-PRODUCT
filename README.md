@@ -35,8 +35,18 @@
 ### Output:
 
 
-### Name:
-### Register Number:
+
+
+
+
+![Screenshot 2024-11-27 105625](https://github.com/user-attachments/assets/9f0f443b-952e-4573-9bb1-269e93834fcd)
+
+
+
+
+
+### Name:Kirutika KR
+### Register Number:24001080
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
